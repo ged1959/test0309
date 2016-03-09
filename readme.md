@@ -19,3 +19,4 @@ githubに静的サイトを作る方法
 11. index.html作る。
 12. 全部、addして、commit。
 13. push
+14. サイトできてる。
