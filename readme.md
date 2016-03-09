@@ -16,4 +16,6 @@ githubに静的サイトを作る方法
 8. ローカルにgh-pagesのbranchを作る。
 9. checkout
 10. git push --set-upstream origin gh-pages
-11. 
+11. index.html作る。
+12. 全部、addして、commit。
+13. push
